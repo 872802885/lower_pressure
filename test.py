@@ -1,3 +1,7 @@
+# pip install pywin32
+# pip install pyinstaller
+# pip install psutil
+
 import psutil
 import time
 import os
